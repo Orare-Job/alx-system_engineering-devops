@@ -1,1 +1,1 @@
-Tutorials on Shell scripting
+Description of what each script does
